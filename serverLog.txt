@@ -1,0 +1,56 @@
+2020/02/27 15:05:45 server starting
+2020/02/27 15:05:56 server starting
+2020/02/27 15:07:55 error while reading: read tcp 127.0.0.1:9999->127.0.0.1:61170: wsarecv: An existing connection was forcibly closed by the remote host.
+2020/02/27 15:08:34 error while reading: read tcp 127.0.0.1:9999->127.0.0.1:61176: wsarecv: An existing connection was forcibly closed by the remote host.
+2020/02/27 15:09:44 error while reading: read tcp 127.0.0.1:9999->127.0.0.1:61180: wsarecv: An existing connection was forcibly closed by the remote host.
+2020/02/27 15:14:58 command received: list
+2020/02/27 15:14:58 options received: 
+2020/02/27 15:16:49 server starting
+2020/02/27 15:16:49 can't listen on 0.0.0.0:9999: listen tcp 0.0.0.0:9999: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2020/02/27 15:17:13 server starting
+2020/02/27 15:17:13 can't listen on 0.0.0.0:9999: listen tcp 0.0.0.0:9999: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2020/02/27 15:17:46 server starting
+2020/02/27 15:17:46 can't listen on 0.0.0.0:9999: listen tcp 0.0.0.0:9999: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2020/02/27 15:18:20 server starting
+2020/02/27 15:18:41 error while reading: EOF
+2020/02/27 15:18:59 error while reading: EOF
+2020/02/27 15:19:43 server starting
+2020/02/27 15:20:10 error while reading: EOF
+2020/02/27 15:20:47 error while reading: EOF
+2020/02/27 15:20:54 command received: list
+2020/02/27 15:20:54 options received: 
+2020/02/27 16:09:48 invalid line received GET / HTTP/1.1
+2020/02/27 16:09:49 invalid line received GET / HTTP/1.1
+2020/02/27 16:09:50 invalid line received GET / HTTP/1.1
+2020/02/27 16:09:55 invalid line received GET / HTTP/1.1
+2020/02/27 16:10:25 invalid line received GET / HTTP/1.1
+2020/02/27 16:11:30 error while reading: EOF
+2020/02/28 18:32:55 server starting
+2020/02/28 18:32:55 can't listen on 0.0.0.0:9999: listen tcp 0.0.0.0:9999: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2020/02/28 18:33:51 server starting
+2020/02/28 18:34:15 command received: list
+2020/02/28 18:34:15 options received: 
+2020/02/28 18:51:10 server starting
+2020/02/28 18:52:43 error while reading: EOF
+2020/02/28 18:52:55 command received: download
+2020/02/28 18:52:55 options received: 1.txt
+2020/02/28 18:52:55 file does not exist
+2020/02/28 18:53:19 command received: download
+2020/02/28 18:53:19 options received: par.txt
+2020/02/28 18:53:19 file does not exist
+2020/02/28 18:53:48 command received: download
+2020/02/28 18:53:48 options received: par.txt
+2020/02/28 18:53:48 file does not exist
+2020/02/28 18:53:59 command received: download
+2020/02/28 18:53:59 options received: par.txt
+2020/02/28 18:53:59 file does not exist
+2020/02/28 18:54:16 command received: download
+2020/02/28 18:54:16 options received: par.txt
+2020/02/28 18:54:16 file does not exist
+2020/02/28 18:54:40 command received: download
+2020/02/28 18:54:40 options received: par
+2020/02/28 18:54:58 server starting
+2020/02/28 18:55:21 command received: download
+2020/02/28 18:55:21 options received: par
+2020/02/28 18:55:56 command received: list
+2020/02/28 18:55:56 options received: 

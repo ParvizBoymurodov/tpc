@@ -1,0 +1,155 @@
+2020/02/26 10:29:19 client connecting
+2020/02/26 10:29:19 client connected
+2020/02/26 10:54:30 client connecting
+2020/02/26 10:54:31 can't connect to 0.0.0.0:9999: dial tcp 0.0.0.0:9999: connectex: No connection could be made because the target machine actively refused it.
+2020/02/26 10:58:15 client connecting
+2020/02/26 10:58:15 client connected
+2020/02/26 10:58:32 command sending
+2020/02/26 10:58:32 command sent
+2020/02/26 10:58:32 file does not exist
+2020/02/26 11:12:57 client connecting
+2020/02/26 11:12:57 client connected
+2020/02/26 11:13:50 client connecting
+2020/02/26 11:13:50 client connected
+2020/02/26 11:39:02 client connecting
+2020/02/26 11:39:02 client connected
+2020/02/26 11:39:10 command sending
+2020/02/26 11:39:10 command sent
+2020/02/26 11:39:10 result error
+2020/02/26 11:39:10 0
+2020/02/26 11:41:10 client connecting
+2020/02/26 11:41:10 client connected
+2020/02/26 11:41:16 command sending
+2020/02/26 11:41:16 command sent
+2020/02/26 11:41:16 file not such: <nil>
+2020/02/26 11:44:47 client connecting
+2020/02/26 11:44:47 client connected
+2020/02/26 11:45:02 command sending
+2020/02/26 11:45:02 command sent
+2020/02/26 11:45:02 file does not exist
+2020/02/26 11:45:25 client connecting
+2020/02/26 11:45:25 client connected
+2020/02/26 11:45:32 command sending
+2020/02/26 11:45:32 command sent
+2020/02/26 11:45:32 parviz
+2020/02/26 11:45:32 5
+2020/02/26 11:58:02 client connecting
+2020/02/26 11:58:02 client connected
+2020/02/26 11:58:14 command sending
+2020/02/26 11:58:14 command sent
+2020/02/26 11:58:14 file not such: <nil>
+2020/02/26 11:58:19 client connecting
+2020/02/26 11:58:19 client connected
+2020/02/26 11:58:25 command sending
+2020/02/26 11:58:25 command sent
+2020/02/26 11:58:25 file does not exist
+2020/02/26 11:59:14 client connecting
+2020/02/26 11:59:14 client connected
+2020/02/26 11:59:21 command sending
+2020/02/26 11:59:21 command sent
+2020/02/26 11:59:21 file does not exist
+2020/02/26 12:06:01 client connecting
+2020/02/26 12:06:01 client connected
+2020/02/26 12:06:07 command sending
+2020/02/26 12:06:07 command sent
+2020/02/26 12:06:15 client connecting
+2020/02/26 12:06:15 client connected
+2020/02/26 12:06:20 command sending
+2020/02/26 12:06:20 command sent
+2020/02/26 12:06:32 client connecting
+2020/02/26 12:06:33 client connected
+2020/02/26 12:06:40 command sending
+2020/02/26 12:06:40 command sent
+2020/02/26 12:06:40 result ok
+2020/02/26 12:06:40 15
+2020/02/26 18:40:15 client connecting
+2020/02/26 18:40:15 client connected
+2020/02/26 18:41:29 command sending
+2020/02/26 18:41:29 command sent
+2020/02/26 18:41:29 result ok
+2020/02/26 18:41:29 15
+2020/02/26 18:41:54 client connecting
+2020/02/26 18:41:55 client connected
+2020/02/26 18:42:01 command sending
+2020/02/26 18:42:01 command sent
+2020/02/26 18:42:01 parviz
+2020/02/26 18:42:01 5
+2020/02/26 18:47:56 client connecting
+2020/02/26 18:47:57 can't connect to 0.0.0.0:9999: dial tcp 0.0.0.0:9999: connectex: No connection could be made because the target machine actively refused it.
+2020/02/26 18:48:09 client connecting
+2020/02/26 18:48:09 client connected
+2020/02/26 18:48:20 command sending
+2020/02/26 18:48:20 command sent
+2020/02/26 18:48:20 parviz
+2020/02/26 18:48:20 5
+2020/02/26 18:50:40 client connecting
+2020/02/26 18:50:40 client connected
+2020/02/26 18:51:20 command sending
+2020/02/26 18:51:20 command sent
+2020/02/26 18:51:20 result ok
+2020/02/26 18:51:20 15
+2020/02/26 18:51:29 client connecting
+2020/02/26 18:51:29 client connected
+2020/02/26 18:59:02 client connecting
+2020/02/26 18:59:02 client connected
+2020/02/26 19:01:00 command sending
+2020/02/26 19:01:00 command sent
+2020/02/26 19:01:08 client connecting
+2020/02/26 19:01:08 client connected
+2020/02/26 19:02:01 command sending
+2020/02/26 19:02:01 command sent
+2020/02/26 19:02:01 client.go
+2020/02/26 19:02:01 2974
+2020/02/26 19:03:09 client connecting
+2020/02/26 19:03:09 client connected
+2020/02/26 19:03:21 command sending
+2020/02/26 19:03:21 command sent
+2020/02/26 19:03:21 result ok
+2020/02/26 19:03:21 2816
+2020/02/26 19:05:33 client connecting
+2020/02/26 19:05:33 client connected
+2020/02/26 19:18:06 client connecting
+2020/02/26 19:18:06 client connected
+2020/02/26 19:19:06 client connecting
+2020/02/26 19:19:06 client connected
+2020/02/26 19:19:14 command sending
+2020/02/26 19:19:14 command sent
+2020/02/26 19:19:59 client connecting
+2020/02/26 19:20:00 client connected
+2020/02/26 19:22:35 client connecting
+2020/02/26 19:22:35 client connected
+2020/02/26 19:22:43 command sending
+2020/02/26 19:22:43 command sent
+2020/02/26 19:28:17 client connecting
+2020/02/26 19:28:17 client connected
+2020/02/26 19:28:21 command sent
+2020/02/26 19:28:29 client connecting
+2020/02/26 19:28:29 client connected
+2020/02/26 19:28:35 command sent
+2020/02/26 19:28:39 command sending
+2020/02/26 19:28:39 result ok
+2020/02/26 19:28:39 15
+2020/02/26 19:31:10 client connecting
+2020/02/26 19:31:10 client connected
+2020/02/26 19:31:13 command sent
+2020/02/26 19:32:41 client connecting
+2020/02/26 19:32:41 client connected
+2020/02/26 19:32:44 command sent
+2020/02/26 19:33:32 client connecting
+2020/02/26 19:33:32 client connected
+2020/02/26 19:33:35 command sent
+2020/02/26 19:33:44 client connecting
+2020/02/26 19:33:44 client connected
+2020/02/26 19:33:51 command sent
+2020/02/26 19:34:01 client connecting
+2020/02/26 19:34:02 client connected
+2020/02/26 19:34:04 command sent
+2020/02/26 19:34:35 client connecting
+2020/02/26 19:34:35 client connected
+2020/02/26 19:34:39 command sent
+2020/02/26 19:37:27 client connecting
+2020/02/26 19:37:27 client connected
+2020/02/26 19:37:30 command sent
+2020/02/26 19:37:56 client connecting
+2020/02/26 19:37:56 client connected
+2020/02/26 19:37:59 command sent

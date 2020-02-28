@@ -1,0 +1,73 @@
+2020/02/27 15:06:00 client connecting
+2020/02/27 15:06:00 client connected
+2020/02/27 15:07:57 client connecting
+2020/02/27 15:07:57 client connected
+2020/02/27 15:09:16 client connecting
+2020/02/27 15:09:16 client connected
+2020/02/27 15:09:47 client connecting
+2020/02/27 15:09:47 client connected
+2020/02/27 15:14:58 command sent
+2020/02/27 15:18:28 client connecting
+2020/02/27 15:18:28 client connected
+2020/02/27 15:18:41 command sent
+2020/02/27 15:18:53 client connecting
+2020/02/27 15:18:53 client connected
+2020/02/27 15:18:59 command sent
+2020/02/27 15:20:04 client connecting
+2020/02/27 15:20:04 client connected
+2020/02/27 15:20:10 command sent
+2020/02/27 15:20:43 client connecting
+2020/02/27 15:20:43 client connected
+2020/02/27 15:20:47 command sent
+2020/02/27 15:20:50 client connecting
+2020/02/27 15:20:50 client connected
+2020/02/27 15:20:54 command sent
+2020/02/28 18:32:39 client connecting
+2020/02/28 18:32:39 client connected
+2020/02/28 18:34:10 client connecting
+2020/02/28 18:34:10 client connected
+2020/02/28 18:34:15 command sent
+2020/02/28 18:50:41 client connecting
+2020/02/28 18:50:54 can't connect to 0.0.0.0:9999: dial tcp 0.0.0.0:9999: connectex: No connection could be made because the target machine actively refused it.
+2020/02/28 18:51:53 client connecting
+2020/02/28 18:52:17 client connected
+2020/02/28 18:52:55 client connecting
+2020/02/28 18:52:55 client connected
+2020/02/28 18:52:55 command sent
+2020/02/28 18:52:55 command sending
+2020/02/28 18:52:55 file not such: <nil>
+2020/02/28 18:53:19 client connecting
+2020/02/28 18:53:19 client connected
+2020/02/28 18:53:19 command sent
+2020/02/28 18:53:19 command sending
+2020/02/28 18:53:19 file not such: <nil>
+2020/02/28 18:53:48 client connecting
+2020/02/28 18:53:48 client connected
+2020/02/28 18:53:48 command sent
+2020/02/28 18:53:48 command sending
+2020/02/28 18:53:48 file not such: <nil>
+2020/02/28 18:53:59 client connecting
+2020/02/28 18:53:59 client connected
+2020/02/28 18:53:59 command sent
+2020/02/28 18:53:59 command sending
+2020/02/28 18:53:59 file not such: <nil>
+2020/02/28 18:54:16 client connecting
+2020/02/28 18:54:16 client connected
+2020/02/28 18:54:16 command sent
+2020/02/28 18:54:16 command sending
+2020/02/28 18:54:16 file not such: <nil>
+2020/02/28 18:54:40 client connecting
+2020/02/28 18:54:40 client connected
+2020/02/28 18:54:40 command sent
+2020/02/28 18:54:40 command sending
+2020/02/28 18:54:40 result ok
+2020/02/28 18:54:40 15
+2020/02/28 18:55:21 client connecting
+2020/02/28 18:55:21 client connected
+2020/02/28 18:55:21 command sent
+2020/02/28 18:55:21 command sending
+2020/02/28 18:55:21 result ok
+2020/02/28 18:55:21 15
+2020/02/28 18:55:56 client connecting
+2020/02/28 18:55:56 client connected
+2020/02/28 18:55:56 command sent
