@@ -12,7 +12,7 @@ import (
 )
 
 func Test_uploadFromServer(t *testing.T) {
-	const address = "0.0.0.0:9999"
+	const address = "0.0.0.0:9998"
 	go func() {
 		listener, err := net.Listen(rpc.Tcp, address)
 		if err != nil {
