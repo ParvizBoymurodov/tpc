@@ -19,10 +19,6 @@ var up = flag.String("up", "uuu", "Up")
 var lists = flag.Bool("list", false, "List")
 
 func main() {
-	//const authorizedOperations = `Список доступных операций:
-	//download
-	//upload
-	//list`
 	file, err := os.OpenFile("clientLog.txt", os.O_CREATE|os.O_APPEND|os.O_WRONLY, 0666)
 	if err != nil {
 		log.Fatal(err)
@@ -47,10 +43,9 @@ flag.Parse()
 		filename = ""
 	} else{
 		return}
-	//fmt.Println(authorizedOperations)
 	address := "0.0.0.0:9999"
 	log.Print("client connecting")
-	conn, err := net.Dial("tcp", address)
+	conn, err := net.Dial(rpc.Tcp, address)
 	if err != nil {
 		log.Fatalf("can't connect to %s: %v", address, err)
 	}
@@ -62,12 +57,9 @@ flag.Parse()
 	}()
 	log.Print("client connected")
 	writer := bufio.NewWriter(conn)
-	//var fileName, cmd string
-	//fmt.Scan(&cmd)
 	log.Print("command sent")
 	switch cmd {
 	case rpc.Down:
-		//fmt.Scan(&filename)
 		line := cmd + ":" + filename
 		err = rpc.WriteLine(line, writer)
 		if err != nil {
@@ -76,7 +68,6 @@ flag.Parse()
 		log.Print("command sending")
 		download(conn, filename)
 	case rpc.Up:
-		//fmt.Scan(&filename)
 		line := cmd + ":" + filename
 		err = rpc.WriteLine(line, writer)
 		if err != nil {

@@ -71,3 +71,12 @@
 2020/02/28 18:55:56 client connecting
 2020/02/28 18:55:56 client connected
 2020/02/28 18:55:56 command sent
+2020/02/29 11:22:11 client connecting
+2020/02/29 11:22:11 client connected
+2020/02/29 11:22:11 command sent
+2020/02/29 11:22:42 client connecting
+2020/02/29 11:22:42 client connected
+2020/02/29 11:22:42 command sent
+2020/02/29 11:22:42 command sending
+2020/02/29 11:22:42 result ok
+2020/02/29 11:22:42 15

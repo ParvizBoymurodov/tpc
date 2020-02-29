@@ -1,16 +1,20 @@
 package rpc
 
 import (
-"bufio"
+	"bufio"
 )
 
-const Down  = "download"
-const Up  = "upload"
-const List  = "list"
-const ServerPath  = "rpc/server/"
-const ClientPath  = "rpc/client/"
-const Ok  = "result ok"
-const Error  = "result error"
+const (
+	Tcp        = "tcp"
+	Down       = "download"
+	Up         = "upload"
+	List       = "list"
+	ServerPath = "rpc/server/"
+	ClientPath = "rpc/client/"
+	Ok         = "result ok"
+	Error      = "result error"
+)
+
 func ReadLine(reader *bufio.Reader) (line string, err error) {
 	return reader.ReadString('\n')
 }

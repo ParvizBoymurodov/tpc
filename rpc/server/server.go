@@ -25,7 +25,7 @@ func main() {
 	log.SetOutput(file)
 	const address = "0.0.0.0:9999"
 	log.Print("server starting")
-	listener, err := net.Listen("tcp", address)
+	listener, err := net.Listen(rpc.Tcp, address)
 	if err != nil {
 		log.Fatalf("can't listen on %s: %v", address, err)
 	}

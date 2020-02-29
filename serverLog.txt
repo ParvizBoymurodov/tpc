@@ -54,3 +54,9 @@
 2020/02/28 18:55:21 options received: par
 2020/02/28 18:55:56 command received: list
 2020/02/28 18:55:56 options received: 
+2020/02/28 19:49:27 server starting
+2020/02/29 11:22:01 server starting
+2020/02/29 11:22:11 command received: list
+2020/02/29 11:22:11 options received: 
+2020/02/29 11:22:42 command received: download
+2020/02/29 11:22:42 options received: par
