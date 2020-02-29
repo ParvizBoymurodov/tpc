@@ -3,8 +3,10 @@ package main
 import (
 	"bufio"
 	"bytes"
+	"fmt"
 	"io/ioutil"
 	"log"
+	"math/rand"
 	"net"
 	"testing"
 	"time"
@@ -12,7 +14,9 @@ import (
 )
 
 func Test_uploadFromServer(t *testing.T) {
-	const address = "0.0.0.0:9998"
+	host := "localhost"
+	port := rand.Intn(999) + 9000
+	address := fmt.Sprintf("%s:%d", host, port)
 	go func() {
 		listener, err := net.Listen(rpc.Tcp, address)
 		if err != nil {
@@ -70,7 +74,9 @@ func Test_uploadFromServer(t *testing.T) {
 
 
 func Test_downloadFromServer(t *testing.T){
-	const address = "0.0.0.0:9991"
+	host := "localhost"
+	port := rand.Intn(999) + 9000
+	address := fmt.Sprintf("%s:%d", host, port)
 	go func() {
 		listener, err := net.Listen(rpc.Tcp, address)
 		if err != nil {
